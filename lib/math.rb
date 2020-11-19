@@ -33,5 +33,6 @@ end
 
 def square_root(num)
 
-sqrt
+sqrt(num1)
+
 end
