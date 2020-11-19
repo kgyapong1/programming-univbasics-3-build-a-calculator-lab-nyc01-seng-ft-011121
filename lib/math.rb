@@ -31,8 +31,8 @@ num1 % num2
 
 end
 
-def square_root(num1)
+def square_root(num1, num2)
 
-math.sqrt(num1)
+math.sqrt(num1, num2)
 
 end
